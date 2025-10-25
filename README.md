@@ -22,6 +22,7 @@ It contains:
 | `79-Ensemble_Joint/` | Ensemble Learning vs. Joint Training |
 | `78-TTA/` | Test-Time Augmentation: generate multiple predictions and combines them to produce robust outcomes. |
 | `77-IF/` | Influence Functions: "Which training data had the biggest impact on this prediction?". |
+| `74-McKay/` | The McKay method calculates CV confidence intervals using the chi-square distribution. |
 
 ---
 
